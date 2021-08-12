@@ -1,0 +1,6 @@
+id,recording,site,year,month,day,hour,min,species,songtype,x1,x2,y1,y2,validated,uri,score,site_id
+24735680,sabana_seca1-2014-07-15_05-50.flac,Sabana Seca,2014,7,15,5,50,Eleutherodactylus juanariveroi,Common Song,42.92266667,44.032,6562.5,8343.75,(not validated),https://s3.amazonaws.com/arbimon2/project_1/detections/2548/24735680.png,0.300001416,506
+24721339,sabana_seca1-2014-06-29_05-10.flac,Sabana Seca,2014,6,29,5,10,Eleutherodactylus juanariveroi,Common Song,17.36,18.46933333,6562.5,8343.75,(not validated),https://s3.amazonaws.com/arbimon2/project_1/detections/2548/24721339.png,0.30000146,506
+24728745,sabana_seca1-2014-04-04_03-20.flac,Sabana Seca,2014,4,4,3,20,Eleutherodactylus juanariveroi,Common Song,52.98133333,54.09066667,6562.5,8343.75,(not validated),https://s3.amazonaws.com/arbimon2/project_1/detections/2548/24728745.png,0.300003682,506
+24723268,sabana_seca1-2014-03-16_01-40.flac,Sabana Seca,2014,3,16,1,40,Eleutherodactylus juanariveroi,Common Song,38.93866667,40.048,6562.5,8343.75,(not validated),https://s3.amazonaws.com/arbimon2/project_1/detections/2548/24723268.png,0.300004884,506
+24737104,sabana_seca1-2014-02-09_19-30.flac,Sabana Seca,2014,2,9,19,30,Eleutherodactylus juanariveroi,Common Song,1.477333333,2.586666667,6562.5,8343.75,(not validated),https://s3.amazonaws.com/arbimon2/project_1/detections/2548/24737104.png,0.300007408,506
